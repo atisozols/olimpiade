@@ -1,6 +1,6 @@
 # Olimpiādes sagatavošanas programma (ātri, bet pakāpeniski)
 
-Šī ir **īsa ceļa** mācību programma skolēnam, kurš jau zina **ciklus un sazarojumus**, lai nonāktu līdz:
+Šī ir **īsa ceļa** mācību programma skolēnam, lai nonāktu līdz:
 - sarakstiem, 2D sarakstiem (matricām),
 - stekam/rindai,
 - linked list,
