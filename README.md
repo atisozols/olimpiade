@@ -1,4 +1,4 @@
-# Olimpiādes sagatavošanas programma (ātri, bet pakāpeniski)
+# Olimpiādes sagatavošanas programma
 
 Šī ir **īsa ceļa** mācību programma skolēnam, lai nonāktu līdz:
 - sarakstiem, 2D sarakstiem (matricām),
